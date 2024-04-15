@@ -2,7 +2,7 @@
 
 This is reference for pricing page, similar to those found within SaaS' using the T3 stack.</br>
 
-This pricing page originates from [SecureEDU](secureedu.ai), my teams entry into the Conrad Challenge. 
+This pricing page originates from [SecureEDU](https://www.secureedu.ai), my teams entry into the Conrad Challenge. 
 
 # Install
 
