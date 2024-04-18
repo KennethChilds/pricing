@@ -30,4 +30,4 @@ npm install @heroicons/react
 Edit the code to fit your pricing needs!
 
 This project uses [Tailwind CSS](https://tailwindcss.com) for styling
-as well as NextJS and React.
+as well as NextJS
